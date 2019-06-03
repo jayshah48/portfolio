@@ -191,11 +191,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #60A561 !important;
+  background-color: #20c997 !important;
 }
 
 .text-primary {
-  color: #60A561 !important;
+  color: #20c997 !important;
 }
 
 a {
@@ -224,7 +224,7 @@ a:hover, a:focus, a:active {
 }
 
 .get-in-touch-icons a {
-  color: #60A561;
+  color: #20c997;
 }
 .facebook-messenger a:hover {
   color: #365899;
